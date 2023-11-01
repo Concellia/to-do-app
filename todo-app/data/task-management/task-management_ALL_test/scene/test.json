@@ -1,0 +1,12 @@
+{
+  "sceneName": "test",
+  "data": {
+    "name": "Test"
+  },
+  "interfaceUniqId": "cae0ce1f-cf5f-4391-9d24-e2f6bbd624f2",
+  "contextConfig": {
+    "responseHeaders": {}
+  },
+  "uniqId": "af0317f5-9664-48ad-88ae-860ef42941c1",
+  "format": "json"
+}

@@ -1,0 +1,13 @@
+{
+  "sceneName": "emptyTodods",
+  "data": {
+    "status": "empty",
+    "message": "No tasks to display, start adding!"
+  },
+  "interfaceUniqId": "20595b04-ec04-4a27-8ab8-1da2f137edbb",
+  "contextConfig": {
+    "responseHeaders": {}
+  },
+  "uniqId": "7f706fa0-8577-40e6-bb33-714881b3cf06",
+  "format": "json"
+}

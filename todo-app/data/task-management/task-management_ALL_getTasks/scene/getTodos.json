@@ -1,0 +1,54 @@
+{
+  "sceneName": "getTodos",
+  "data": {
+    "status": "success",
+    "data": [
+      {
+        "taskId": 1,
+        "taskDescription": "Drink water",
+        "category": "Personal",
+        "active": true,
+        "show": true,
+        "date": "09/18/2022"
+      },
+      {
+        "taskId": 2,
+        "taskDescription": "Learn JavaScript",
+        "category": "Coding",
+        "active": false,
+        "show": true,
+        "date": "09/18/2022"
+      },
+      {
+        "taskId": 3,
+        "taskDescription": "Submit Maths Assignment",
+        "category": "School",
+        "active": true,
+        "show": true,
+        "date": "09/20/2022"
+      },
+      {
+        "taskId": 4,
+        "taskDescription": "Study for an accounting exam",
+        "category": "School",
+        "active": true,
+        "show": true,
+        "date": "09/14/2022"
+      },
+      {
+        "taskId": 5,
+        "taskDescription": "Take a morning walk",
+        "category": "Personal",
+        "active": true,
+        "show": true,
+        "date": "09/18/2022"
+      }
+    ]
+  },
+  "interfaceUniqId": "20595b04-ec04-4a27-8ab8-1da2f137edbb",
+  "contextConfig": {
+    "responseHeaders": {}
+  },
+  "uniqId": "43990846-31b5-4929-a3e1-e71a704318e0",
+  "format": "json"
+}

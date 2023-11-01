@@ -1,0 +1,11 @@
+{
+  "protocol": "http",
+  "pathname": "register",
+  "method": "ALL",
+  "projectUniqId": "e0e9dfeb-9dbc-495a-a710-07ec5dc3f6a3",
+  "description": "To do list API",
+  "currentScene": "error",
+  "proxyConfig": {},
+  "uniqId": "98b4888f-b088-499f-9997-bf13ae0e5da5",
+  "groupUniqId": "55417ea4-28bc-4568-962f-52ce8f4607c7"
+}

@@ -1,0 +1,15 @@
+{
+  "sceneName": "error",
+  "data": {
+    "status": "error",
+    "message": "An error occured!"
+  },
+  "interfaceUniqId": "98b4888f-b088-499f-9997-bf13ae0e5da5",
+  "contextConfig": {
+    "responseDelay": 0,
+    "responseStatus": 200,
+    "responseHeaders": {}
+  },
+  "uniqId": "51cc4212-b0f0-4bd8-bcdb-636845a20c30",
+  "format": "json"
+}

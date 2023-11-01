@@ -1,0 +1,11 @@
+{
+  "protocol": "http",
+  "pathname": "getTasks",
+  "method": "ALL",
+  "projectUniqId": "e0e9dfeb-9dbc-495a-a710-07ec5dc3f6a3",
+  "description": "To do list API",
+  "currentScene": "getTodos",
+  "proxyConfig": {},
+  "uniqId": "20595b04-ec04-4a27-8ab8-1da2f137edbb",
+  "groupUniqId": "55417ea4-28bc-4568-962f-52ce8f4607c7"
+}

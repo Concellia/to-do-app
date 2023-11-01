@@ -1,0 +1,15 @@
+{
+  "sceneName": "error",
+  "data": {
+    "status": "error",
+    "message": "Failed to get categories"
+  },
+  "interfaceUniqId": "e363048e-783b-4a0b-90e9-cddc485e5131",
+  "contextConfig": {
+    "responseDelay": 0,
+    "responseStatus": 200,
+    "responseHeaders": {}
+  },
+  "uniqId": "92be914b-6b07-4921-949b-5273679543c5",
+  "format": "json"
+}

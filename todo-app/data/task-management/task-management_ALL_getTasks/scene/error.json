@@ -1,0 +1,13 @@
+{
+  "sceneName": "error",
+  "data": {
+    "status": "error",
+    "message": "Oppss, something went wrong!"
+  },
+  "interfaceUniqId": "20595b04-ec04-4a27-8ab8-1da2f137edbb",
+  "contextConfig": {
+    "responseHeaders": {}
+  },
+  "uniqId": "6bc52d1b-49a0-487d-8678-98ad78e9619d",
+  "format": "json"
+}

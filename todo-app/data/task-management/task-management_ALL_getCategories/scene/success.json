@@ -1,0 +1,30 @@
+{
+  "sceneName": "success",
+  "data": {
+    "status": "success",
+    "data": [
+      {
+        "catName": "Personal",
+        "active": true
+      },
+      {
+        "catName": "Household",
+        "active": false
+      },
+      {
+        "catName": "Work",
+        "active": false
+      },
+      {
+        "catName": "School",
+        "active": false
+      }
+    ]
+  },
+  "interfaceUniqId": "e363048e-783b-4a0b-90e9-cddc485e5131",
+  "contextConfig": {
+    "responseHeaders": {}
+  },
+  "uniqId": "d7fb2508-cea6-46c6-ba1d-285c3156bb10",
+  "format": "json"
+}
